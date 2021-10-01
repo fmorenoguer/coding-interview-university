@@ -111,7 +111,7 @@ software development/engineering roles.
 
 ### The Study Plan
 
-- [x] [What is it?](#what-is-it)
+- [x] 2021/10/02 [What is it?](#what-is-it)
 - [x] [Why use it?](#why-use-it)
 - [x] [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
